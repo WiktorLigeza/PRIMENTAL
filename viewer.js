@@ -632,7 +632,6 @@ async function loadImagesFromFolder() {
     
     // All actual image files from the images/ folder
     const imageFiles = [
-        '067781F9-AC65-4EAD-BAC5-6D77AC4C19B4.jpeg',
         '3722E9A2-E022-45E5-83C7-D8B17BC18F90.jpeg',
         '41408C48-33EF-4794-A937-1EC103C9EB27.jpeg',
         '7F05DFC4-35B8-4930-8C00-465E33B9D053.jpeg',
